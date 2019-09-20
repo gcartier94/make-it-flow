@@ -25,5 +25,12 @@
     "url": "https://github.com/gcartier94/make-it-flow/issues"
   },
   "homepage": "https://github.com/gcartier94/make-it-flow#readme",
-  "dependencies": {}
+  "dependencies": {
+    "@types/yaml": "^1.0.2",
+    "fs": "0.0.1-security",
+    "yaml": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.5"
+  }
 }
