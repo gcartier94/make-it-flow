@@ -1,0 +1,29 @@
+{
+  "name": "make-it-flow",
+  "version": "1.0.0",
+  "description": "A Typescript project focused on simplifying the creation of z/OSMF Workflows by using YAML instead of XML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcartier94/make-it-flow.git"
+  },
+  "keywords": [
+    "z/OSMF",
+    "workflow",
+    "yaml",
+    "yml",
+    "zos",
+    "mainframe",
+    "ibm"
+  ],
+  "author": "Guilherme Cartier (gcartier94)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcartier94/make-it-flow/issues"
+  },
+  "homepage": "https://github.com/gcartier94/make-it-flow#readme",
+  "dependencies": {}
+}
