@@ -28,7 +28,7 @@
   "dependencies": {
     "@types/yaml": "^1.0.2",
     "fs": "0.0.1-security",
-    "yaml": "^1.6.0"
+    "yaml": "^1.10.3"
   },
   "devDependencies": {
     "@types/node": "^12.7.5"
